@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hwp theme - vietnamese 1.0\n"
+"POT-Creation-Date: 2016-11-11 13:17+0900\n"
+"PO-Revision-Date: 2016-11-11 13:17+0900\n"
+"Last-Translator: \n"
+"Language-Team: hwp theme <lamnv1992@gmail.com>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Trang bạn tìm có thể không được tìm thấy hoặc đã bị xoá."
+
+#: ../404.php:24
+msgid "Enter other keywords and search again "
+msgstr "Bạn hãy thử nhập từ khoá khác và tìm kiếm lại."
+
+#: ../comments.php:48
+msgid "Comments are closed."
+msgstr "Bình luận đã bị đóng"
+
+#: ../functions.php:73
+msgid "HWP Menu Top"
+msgstr "Thanh menu trên đỉnh website"
+
+#: ../functions.php:74
+msgid "HWP Menu Main"
+msgstr "Thanh menu chính"
+
+#: ../functions.php:81
+msgid "Sidebar Index Content"
+msgstr "Sidebar phần nội dụng trang chủ"
+
+#: ../functions.php:95
+msgid "Sidebar Main at Right Page"
+msgstr "Sidebar chính bên phải trang"
+
+#: ../functions.php:109
+msgid "Sidebar at Footer"
+msgstr "Sidebar tại phần Footer của web"
+
+#: ../functions.php:188 ../functions.php:212 ../functions.php:481
+msgid "Save"
+msgstr "Lưu lại"
+
+#: ../functions.php:189 ../functions.php:213
+msgid "Saving..."
+msgstr "Đang lưu"
+
+#: ../functions.php:190 ../functions.php:214 ../functions.php:483
+msgid "Delete"
+msgstr "Xoá"
+
+#: ../functions.php:191 ../functions.php:215
+msgid "Deleting..."
+msgstr "Đang xoá"
+
+#: ../functions.php:216 ../settings/menu.manager.php:15
+msgid "Success"
+msgstr "Thành công"
+
+#: ../functions.php:217 ../settings/menu.manager.php:17
+msgid "Failed"
+msgstr "Thất bại"
+
+#: ../functions.php:270
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s tại %2$s"
+
+#: ../functions.php:277
+msgid "( Edit )"
+msgstr "( Sửa )"
+
+#: ../functions.php:290
+msgid "Post Comment"
+msgstr "Gửi bình luận"
+
+#: ../functions.php:378
+msgid "Find us"
+msgstr "Chúng tôi trên Facebook"
+
+#: ../functions.php:448
+msgid "Select a widget"
+msgstr "Chọn một widget"
+
+#: ../functions.php:464
+msgid "Select column number"
+msgstr "Chọn số cột"
+
+#: ../functions.php:472
+msgid "Column"
+msgstr "Cột"
+
+#: ../header.php:32
+msgid "Call us now"
+msgstr "Gọi cho chúng tôi"
+
+#: ../index.php:20 ../index.php:71
+msgid "Read more"
+msgstr "Đọc tiếp"
+
+#: ../index.php:66 ../template-parts/content-single.php:124
+msgid "Comments"
+msgstr "Bình luận"
+
+#: ../search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm cho: %s"
+
+#: ../template-parts/biography.php:28
+msgid "Author:"
+msgstr "Tác giả:"
+
+#: ../template-parts/biography.php:33 ../template-parts/content-single.php:113
+#, php-format
+msgid "View all posts by %s"
+msgstr "Xem hết bài của %s"
+
+#: ../template-parts/content-none.php:13
+msgid "Not found"
+msgstr "Không tìm thấy"
+
+#: ../template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bạn đã sẵn sàng để đăng bài viết đầu tiên của bạn? <a href=\"%1$s\">Bắt đầu "
+"tại đây</a>."
+
+#: ../template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Xin lỗi, không có kết quả phù hợp với yêu cầu tìm kiếm, Vui lòng thử lại với "
+"từ khoá khác."
+
+#: ../template-parts/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Có vẻ như chúng ta có thể & rsquo; t tìm thấy những gì bạn về lĩnh lại tìm "
+"kiếm. Có lẽ tìm kiếm có thể giúp đỡ."
+
+#: ../template-parts/content-search.php:28
+#: ../template-parts/content-search.php:43
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Sửa<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: ../template-parts/content-single.php:78
+msgid "Pages:"
+msgstr "Các trang"
+
+#: ../template-parts/content-single.php:82
+msgid "Page"
+msgstr "Trang"
+
+#: ../template-parts/content-single.php:97
+msgid "Author about"
+msgstr "Về tác giả"
+
+#: ../template-parts/content-single.php:135
+msgid "Send Respond"
+msgstr "Gửi phản hồi"
+
+#~ msgid "failure"
+#~ msgstr "Thất bại"
+
+#~ msgid "Read More"
+#~ msgstr "Đọc tiếp"

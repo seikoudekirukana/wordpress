@@ -1,0 +1,29 @@
+
+/*  custom login form   */
+body.login {}
+body.login div#login {}
+body.login div#login h1 {}
+body.login div#login h1 a {}
+body.login div#login form#loginform {}
+body.login div#login form#loginform p {}
+body.login div#login form#loginform p label {}
+body.login div#login form#loginform input {}
+body.login div#login form#loginform input#user_login {}
+body.login div#login form#loginform input#user_pass {}
+body.login div#login form#loginform p.forgetmenot {}
+body.login div#login form#loginform p.forgetmenot input#rememberme {}
+body.login div#login form#loginform p.submit {}
+body.login div#login form#loginform p.submit input#wp-submit {
+    box-shadow: 7px 7px 5px #D2D2D2;
+    border: none;
+    background-color: #E7E7E7;
+    padding: 10px;
+    color: #FF5732;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+body.login div#login p#nav {}
+body.login div#login p#nav a {}
+body.login div#login p#backtoblog {}
+body.login div#login p#backtoblog a {}
+/*   end login form */
